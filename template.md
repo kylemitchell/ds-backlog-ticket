@@ -20,26 +20,26 @@ These can be their own form of acceptance criteria
 - [ ] Component Review (Engineering)
 - [ ] Versioning Notes (if applicable)
 
-## Integrate design from other verticals
+### Integrate design from other verticals
 Make sure you’ve reached out to designers from other verticals to assess what other teams may have already created.
 
-## Integrate any existing components
+### Integrate any existing components
 It’s important when you are creating your components that you use any existing Arena tokens, or components within your designs. 
 
-## Express components states
+### Express components states
 Create states for your component to express it’s design in active, default (static), filled, disabled, error states.
 
-## Accessibility Check
+### Accessibility Check
 Check your designs for accessibility, we recommend the Contrast Plugin in Figma
 
-## Component fits the the design standard
+### Component fits the the design standard
 Check your designs against pre-existing documented rules in  
 
-## Design System Team Review
+### Design System Team Review
 When your designs are ready, you can ping the #arena-requests? channel on slack and let us know
 
-## Component Review
+### Component Review
 When your designs have been approved by the Arena team, there will also be an engineering review with the architecture team to make sure the component is ready for development
 
-## Versioning Notes
+### Versioning Notes
 If you are updating a current design you’ll need to amend the current documentation with versioning notes to let us know what is different
