@@ -19,6 +19,7 @@ These can be their own form of acceptance criteria
 - [ ] Peer or Team Review (Design)
 - [ ] Component Review (Engineering)
 - [ ] Versioning Notes (if applicable)
+- [ ] Note here
 
 ## Integrate design from other verticals
 Make sure you’ve reached out to designers from other verticals to assess what other teams may have already created.
